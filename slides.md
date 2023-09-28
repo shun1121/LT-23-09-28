@@ -57,9 +57,6 @@ layout: default
 <style>
 .outline {
   margin-top: 40px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   color: white;
   font-size: 21px;
   outline-style: none;
